@@ -35,4 +35,6 @@
 .author {
   font-style: italic;
   font-weight: bold;
+  text-indent: 10px;
+  font-family: cursive;
 }
