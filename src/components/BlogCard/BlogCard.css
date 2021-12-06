@@ -31,3 +31,8 @@
   width: 100%;
   border-radius: 5px;
 }
+
+.author {
+  font-style: italic;
+  font-weight: bold;
+}

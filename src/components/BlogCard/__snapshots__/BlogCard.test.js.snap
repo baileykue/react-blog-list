@@ -22,6 +22,11 @@ Object {
             Test subtitle
           </div>
           <div
+            class="author"
+          >
+            test author
+          </div>
+          <div
             class="text"
           >
             lorem ipsum blah blah blah
@@ -53,6 +58,11 @@ Object {
           class="subtitle"
         >
           Test subtitle
+        </div>
+        <div
+          class="author"
+        >
+          test author
         </div>
         <div
           class="text"
